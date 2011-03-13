@@ -1,7 +1,7 @@
 With this depository, I am trying to build a package named Cliques.
 The aim is to reach at a stage where people can download cliques.tar.gz, extract them and the following command -
 
-$ python setup.py install
+$ sudo python setup.py install
 
 and thats all. They will be able to use all the functions I wrote.
 The main file is cliques.py which contains the following functions.
