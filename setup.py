@@ -1,6 +1,13 @@
+#!/usr/bin/env python
+# I have no idea what is this first line is for.
+
 from distutils.core import setup
+
 
 setup(name = 'Cliques',
       version = '1.0',
-      py_modules = ['all_maximal_cliques'], 
+      description = 'For finding the cliques in unidirected graphs',
+      auther = 'Hector'
+      auther_email = 'hector1618@gmail.com'
+      py_modules = ['cliques'], 
 )
