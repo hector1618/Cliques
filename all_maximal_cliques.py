@@ -105,11 +105,4 @@ def all_maximal_cliques():
           print Cliques[i]
 
       print len(Cliques)
-
-
-
-    
-            
-
-        
-    
+      return Cliques
