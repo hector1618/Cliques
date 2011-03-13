@@ -1,0 +1,16 @@
+With this depository, I am trying to build a package named Cliques.
+The aim is to reach at a stage where people can download cliques.tar.gz, extract them and the following command -
+
+$ python setup.py install
+
+and thats all. They will be able to use all the functions I wrote.
+The main file is cliques.py which contains the following functions.
+1) all_maximal_cliques # To find all maximal cliques in the Undirected graph
+2) coloring            # To find the coloring pater of the graph.
+3) is_clique_k         # To check whether a clique of size k is present in graph or not
+4) max_cliques	       # To find the maximum sized cliqe of a graph
+5) random_graphs       # To generate random graphs for testing
+
+The package also contains two modules written by me, named - 
+1) my_module           # Contaning some useful basic functions
+2) stack               # For using tree struture.
