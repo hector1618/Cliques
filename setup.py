@@ -6,8 +6,8 @@ from distutils.core import setup
 
 setup(name = 'Cliques',
       version = '1.0',
-      description = 'For finding the cliques in unidirected graphs',
-      auther = 'Hector'
-      auther_email = 'hector1618@gmail.com'
+      description = 'For finding the cliques in undirected graphs',
+      auther= 'Hector',
+      auther_email= 'hector1618@gmail.com',
       py_modules = ['cliques'], 
 )
