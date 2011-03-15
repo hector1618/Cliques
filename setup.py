@@ -5,7 +5,7 @@ from distutils.core import setup
 
 
 setup(name = 'Cliques',
-      version = '1.0',
+      version = '0.1.0',
       description = 'For finding the cliques in undirected graphs',
       auther= 'Hector',
       auther_email= 'hector1618@gmail.com',
